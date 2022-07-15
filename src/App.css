@@ -1,0 +1,42 @@
+h1 {
+    font-weight: 500;
+}
+
+input[type=text ], select {
+    padding: 12px 20px;
+    margin: 8px 0;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    outline: none !important;
+}
+
+.container {
+    text-align: center;
+}
+
+.save-btn {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 10px;
+    margin-left: 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.delete-btn {
+    background-color: firebrick;
+    color: white;
+    padding: 5px 5px;
+    margin-top: 10px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.todo-content {
+
+    margin-top: 10px;
+
+}
